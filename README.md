@@ -4,10 +4,10 @@
 
 Script usage examples:
  - In the terminal window:
-   python script.py grouped-teams 
-   python script.py player-stats --name Kyle
+   - python script.py grouped-teams 
+   - python script.py player-stats --name Kyle
       --name (required)
-   python script.py teams-stats --season 2018 --output csv 
+   - python script.py teams-stats --season 2018 --output csv 
       --season (required) --output (not required), default stdout
                           Possible outputs: csv, stdout, json
       
